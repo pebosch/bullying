@@ -33,7 +33,7 @@ Contenido de la carpeta "weka-algorithms"
   - Modelo de clasificador svm.
   - Resultados tras aplicar el modelo de clasificador svm.
 * **weka-datafile.arff**
-  - Fichero origen de los datos.
+  - Fichero origen de los datos tras aplicar técnicas de balanceo (resampling).
 
 
 Referencias
